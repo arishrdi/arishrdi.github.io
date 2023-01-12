@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap');
+
+* {
+  font-family: 'Hammersmith One', sans-serif;
+}
+
+body {
+  background-image: url("/background2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
